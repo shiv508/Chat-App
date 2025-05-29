@@ -29,7 +29,7 @@ Real-Time-Chat-Application-master
 Step 1: Backend Server (Node.js + Socket.io) Setup
 cd Server
 npm install
-node server.js  (http://localhost:5000)
+node server.js 
 
 Step 2: Frontend Setup (React + Vite + Tailwind)
 cd Client/chat
